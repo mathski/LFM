@@ -7,8 +7,6 @@ http://openaccess.thecvf.com/content_CVPR_2019/html/Wengrowski_Light_Field_Messa
 
 
 # Code and CDTF 1M dataset:
-Email request to Eric Wengrowski <eric@steg.ai>.
-
-Provide your name, institution and research purpose of the request.
-
-The database/code will be made available to for non-commercial use
+The code and data is available for academic, non-commercial use only.
+Please follow this link to obtain a free license and download:
+http://license.rutgers.edu/technologies/2019-113_novel-light-field-messaging-captured-in-a-camera
