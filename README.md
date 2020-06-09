@@ -14,7 +14,7 @@ http://license.rutgers.edu/technologies/2019-113_novel-light-field-messaging-cap
 
 # Code:
 This code is written for Python 3.6 using the Conda environment manager.
-NOTE: This code will NOT WORK with versions of PyTorch 0.4.0 and beyond
+NOTE: This code will NOT WORK with versions of PyTorch 0.4.0 and beyond.
 Previous versions of PyTorch can be downloaded here: https://pytorch.org/get-started/previous-versions/
 
 OS: Ubuntu 16.04
