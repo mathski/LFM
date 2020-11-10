@@ -11,7 +11,7 @@ The code and data is only available for academic, non-commercial use.
 Please follow this link to obtain a free license and download:
 http://license.rutgers.edu/technologies/2019-113_novel-light-field-messaging-captured-in-a-camera
 
-If you encounter a downlaod error from Google, please try this:
+If you encounter a download error from Google, please try this:
 1. Copy the Publicly shared Camera1M file into your own google drive. You can do that by clicking on top and "copy to my drive" button. 
 2. You'll need an upgraded google account to do that because the basic account has a limitation of 10GB. So upgrade the google account or find an account that has 2 TB enabled on it - Google Drive. 
 3. Once you have copied in your drive you can easily download it without any issues because it's in your drive now. 
