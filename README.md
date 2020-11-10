@@ -81,3 +81,5 @@ Directory names label the camera-display hardware pairs used to collect each ima
 
 Please report any issues to eric@steg.ai
 Thank You!
+
+Final Note: This code and data is not allowed for any commercial purpose without written concent from the authors.
